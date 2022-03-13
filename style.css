@@ -1,0 +1,64 @@
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px !important;
+}
+
+#img_ggl_lns {
+    width: 100px;
+    height:100px;
+}
+
+.red-color {
+    color: red;
+}
+
+.img_in_box {
+    width:300px;
+}
+
+.copy_right_footer
+{
+  bottom:0;
+  background-color: rgb(102, 102, 102);
+  color:white;
+  width:100%;
+  line-height: 30px;
+  position:fixed;
+  text-align: center;
+  font-size: 20px;
+}
+
+.edit_div {
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width: 99%;
+    margin-bottom: 15px;
+}
+
+
+.img_in_box {
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    
+}
+
+.white {
+    color:white;
+}
+
+.bk_light , .bk_light2 {
+    background-color: white;
+    border-radius: 20px;
+    line-height: 3;
+}
+
+.purple_txt {
+    color:purple;
+}
+
+
+
